@@ -14559,12 +14559,12 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
                 },
                 displayAlign: 'center',
                 CommonHTML: {
-                    linebreaks: {
-                    automatic: true
+                    linebreaks: { 
+                    automatic: true 
                     }
                 }
             });
-
+        
             MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
         }
     }
@@ -14581,6 +14581,8 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h1 id="Prospec%C3%A7%C3%A3o-de-Dados-2022/2023">Prospec&#231;&#227;o de Dados 2022/2023<a class="anchor-link" href="#Prospec%C3%A7%C3%A3o-de-Dados-2022/2023">&#182;</a></h1><h2 id="First-Home-Assignment">First Home Assignment<a class="anchor-link" href="#First-Home-Assignment">&#182;</a></h2><h3 id="Task---Build-Supervised-Learning-Models">Task - Build Supervised Learning Models<a class="anchor-link" href="#Task---Build-Supervised-Learning-Models">&#182;</a></h3><p>Dataset: <a href="https://archive-beta.ics.uci.edu/ml/datasets/superconductivty+data">UCI Supercoductivity Data</a></p>
 <p>The last column is the <strong>Dependent Variable</strong> (<code>critical_temp</code>]</p>
+<p><strong>Clarification:</strong> The two datasets correspond to the same data instances on the same order, so they can be joined together in one big data set or processed separately</p>
+<p><strong>Note:</strong> The last column (<code>material</code>) of the <code>unique_m.csv</code> file is an identifier and should be discarded and not used in the analysis</p>
 <h3 id="Objective-1---Dimensionality-reduction">Objective 1 - Dimensionality reduction<a class="anchor-link" href="#Objective-1---Dimensionality-reduction">&#182;</a></h3><ul>
 <li>Perform dimensionality reduction (preferably PCA or SVD) and analize the data<ul>
 <li>Note: It might be advisable to scale the dataset using <a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html">SciKit-learn Standard Scaler</a></li>
