@@ -1,0 +1,50 @@
+Probabilistic Graphical Models
+Bayesian Data Analysis 
+Doing data science 
+Pattern Recognition and Machine Learning 
+The Elements of Statistical Learning 
+An introduction to Statistical Learning 
+Python Machine Learning 
+Natural Langauage Processing with Python
+Statistical Distributions
+Monte Carlo Statistical Methods
+Machine Learning :A Probablisitic Perspective
+Neural Network Design 
+Matrix methods in Data Mining and Pattern recognition 
+Statistical Power Analysis
+Probability Theory The Logic of Science
+Introduction to Probability 
+Statistical methods for recommender systems
+Entropy and Information theory
+Clever Algorithms: Nature-Inspired Programming Recipes
+"Precision: Principles, Practices and Solutions for the Internet of Things"
+Applied Predictive Analytics
+Data Structures and Algorithms in Java
+Data Science For Dummies
+Keeping Up with the Quants: Your Guide to Understanding and Using Analytics
+R cookbook
+Deep Learning
+SQL Cookbook
+Learning SQL
+Python Crash Course
+Naked Statistics
+Head First Statistics: A Brain-Friendly Guide
+The Data Science Handbook by Field Cady
+Storytelling With Data: A Data Visualization Guide for Business Professionals
+Streaming Sharing Stealing: Big Data and the Future of Entertainment
+Show Me the Numbers: Designing Tables and Graphs to Enlighten
+Cracking the Coding Interview: 189 Programming Questions and Solutions
+Numsense! Data Science for the Layman: No Math Added
+Making Money out of Data: The Art and Science of Analytics
+Machine Learning With Random Forests And Decision Trees: A Visual Guide For Beginners
+The Art of Data Science
+Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking
+The Data Science Handbook
+Programming Python: Powerful Object-Oriented Programming
+Fluent Python: Clear Concise and Effective Programming
+Computer Vision:  Models Learning and Inference
+Artificial Intelligence: A Modern Approach
+Grokking Algorithms: An illustrated guide for programmers and other curious people
+Data Smart: Using Data Science to Transform Information into Insight
+Blockchain Technology And Data Analytics
+Machine Learning Yearning
